@@ -12,15 +12,20 @@ project_role: "Composer"
 project_tools: "FamiStudio"
 project_date: "February 1, 2026"
 ---
-## Heading 
-Written deliverables go here
+## Tracks
+Main Menu Theme: Plays on the main menu to get the players hyped for battle.
+Arena Theme: Balances excitement with the other qualities of background tracks for gameplay.
+## Game Context
+The assets are background music pieces that play during character selection and battles respectively.
+## Resource Table
+| Name        | Type  | Context   | Creator          | Length | Notes                                                           |
+|-------------|-------|-----------|------------------|--------|-----------------------------------------------------------------|
+| Menu Medley | Music | Main Menu | Garrick Springer | 2:19   | Contains leitmotifs for original characters                     |
+| Fight!      | Music | Battle    | Garrick Springer | 2:10   | Written for loop with slight mood changes while remaining tense |
 
 ## External Assets & Libraries
-- List out external assets and licences 
+- FamiStudio is downloadable at https://famistudio.org/
 ---
 
 ### Resources
-- List links to resources on the project, for example
-- Link to Github repo for project
-- Link to piece on ArtStation
-- Link to Itch.io game project was used for
+- Game: https://jc1014.itch.io/facade
