@@ -103,7 +103,7 @@ collections:
 
 author:
   name   : "Garrick Springer"
-  avatar : "/assets/images/headshot"
+  avatar : "/assets/images/headshot.jpg"
   bio    : "UTulsa CSG Student"
   links:
     - label: "LinkedIn"
