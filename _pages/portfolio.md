@@ -8,4 +8,6 @@ entries_layout: grid
 author_profile: true
 ---
 
-Page content goes here ...
+# Portfolio Features
+
+These are works of mine that I have chosen to feature with documentation.

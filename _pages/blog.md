@@ -9,4 +9,6 @@ header:
   overlay_image: 
 ---
 
-Page content goes here ...
+# Blog
+
+Future posts will go here.

@@ -2,10 +2,10 @@
 # ⚙️ Site Settings
 # -----------------------------------------------------------------------------
 
-title: Site Title
-email: Your email
+title: gorkmo's Portfolio
+email: gms9920@utulsa.edu
 description: >-
-  short description of the site
+  Garrick Springer's CSG Portfolio
 
 # Branding & Social
 twitter_username: 
@@ -16,7 +16,7 @@ github_username:
 # -----------------------------------------------------------------------------
 
 baseurl: "" 
-url: "https://yourusername.github.io"
+url: "https://gorkmo.github.io"
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
@@ -34,13 +34,13 @@ plugins:
 # -----------------------------------------------------------------------------
 
 minimal_mistakes_skin: "default"
-site_author: "Your Name"
+site_author: "Garrick Springer"
 paginate: 5
 words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo: 
-masthead_title: "Site Title"
+masthead_title: "gorkmo's Portfolio"
 
 # Defaults for Posts and Pages
 defaults:
@@ -102,22 +102,22 @@ collections:
 # -----------------------------------------------------------------------------
 
 author:
-  name   : "Your Name"
-  avatar : "/assets/images/blank-profile-picture"
-  bio    : "short bio line"
+  name   : "Garrick Springer"
+  avatar : "/assets/images/headshot"
+  bio    : "UTulsa CSG Student"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/garrick-springer-1b1b76352/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"  
+      url: "https://github.com/gorkmo/"  
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
-      url: "https://itch.io"
+      url: "https://gorkmo.itch.io"
     - label: "ArtStation"
       icon: "fab fa-fw fa-artstation"
-      url: "https://www.artstation.com/"
+      url: "https://www.artstation.com/gorkmo/"
 
 # -----------------------------------------------------------------------------
 # 🚫 Exclusions

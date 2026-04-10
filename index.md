@@ -3,19 +3,19 @@ layout: splash
 permalink: /
 
 feature_row:
-  - image_path: /assets/images/feature-img.png
-    alt: "Alternative text for image"
-    title: "Project title"
-    excerpt: "summary of project."
-    url: "/portfolio/project-filename/"
+  - image_path: https://img.itch.zone/aW1nLzIxMTUwODg2LnBuZw==/347x500/W6nhb5.png
+    alt: "The Astatinian"
+    title: "The Astatinian"
+    excerpt: "Project designed for the Game Systems class, requiring inventory and crafting systems"
+    url: "/portfolio/astatinian/"
     btn_label: "View"
     btn_class: "btn--primary"
 ---
 
 
-# Title
+# Welcome!
 
-Page content
+My name is Garrick Springer. I am a CSG student at the University of Tulsa interested in music and programming for games. Here you can see samples of my work:
 
 
 {% include feature_row %}
