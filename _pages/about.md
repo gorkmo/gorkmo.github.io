@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Page Title"
+title: "About Garrick Springer"
 permalink: /about/
 author_profile: true
 ---
