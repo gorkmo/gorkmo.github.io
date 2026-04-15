@@ -10,6 +10,13 @@ feature_row:
     url: "/portfolio/astatinian/"
     btn_label: "View"
     btn_class: "btn--primary"
+  - image_path: https://img.itch.zone/aW1nLzE4ODU4MDEwLnBuZw==/347x500/SHz0DV.png
+    alt: "The Pea Shooter"
+    title: "The Pea Shooter"
+    excerpt: "First Person Shooter project for Game Programming class"
+    url: "/portfolio/pea-shooter/"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
 
 
