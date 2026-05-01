@@ -9,7 +9,7 @@ description: >-
 
 # Branding & Social
 twitter_username: 
-github_username:  
+github_username: gorkmo
 
 # -----------------------------------------------------------------------------
 # 🛠️ Build Settings
@@ -51,7 +51,7 @@ defaults:
       layout: single
       header:
         overlay_color: "#003595"
-        overlay_image:    
+        overlay_image: "/assets/images/banner19201080.png"
       author_profile: true # Author profile (left sidebar) is visible
       toc: true             # Table of Contents (right sidebar) is visible
       toc_label: "Contents" # Optional: Custom title for the TOC
@@ -65,7 +65,7 @@ defaults:
       layout: single
       header:
         overlay_color: "#003595"
-        overlay_image: 
+        overlay_image: "/assets/images/banner19201080.png"
       author_profile: true # Author profile (left sidebar) is visible
       toc: true             # Table of Contents (right sidebar) is visible
       toc_label: "Contents" # Optional: Custom title for the TOC
@@ -79,7 +79,7 @@ defaults:
       layout: portfolio-item
       header:
         overlay_color: "#003595"
-        overlay_image:
+        overlay_image: "/assets/images/banner19201080.png"
       author_profile: true # Author profile (left sidebar) is visible
       sidebar: 
         nav: "portfolio_sidebar"  # Custom Portfolio (left sidebar) is visible

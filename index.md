@@ -17,12 +17,17 @@ feature_row:
     url: "/portfolio/pea-shooter/"
     btn_label: "View"
     btn_class: "btn--primary"
+  - image_path: /assets/images/vrns.png
+    alt: "VR Nursing Simulator: Unity 6 Edition"
+    title: "VR Nursing Simulator: Unity 6 Edition"
+    excerpt: "Refactor for a university research project"
+    url: "/portfolio/vrns/"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
-
 
 # Welcome!
 
-My name is Garrick Springer. I am a CSG student at the University of Tulsa interested in music and programming for games. Here you can see samples of my work:
-
+My name is Garrick Springer. I am a CSG student at the University of Tulsa interested in music and programming for games. Here you can see featured samples of my work:
 
 {% include feature_row %}

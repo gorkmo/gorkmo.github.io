@@ -4,7 +4,7 @@ excerpt: "Short arcade shooter made for a class final"
 
 header:
   overlay_image: 
-  teaser: 
+  teaser: https://img.itch.zone/aW1nLzE4ODU4MDEwLnBuZw==/347x500/SHz0DV.png
   overlay_filter: 0.5
 
 project_brief: "First-person Shooter class project"

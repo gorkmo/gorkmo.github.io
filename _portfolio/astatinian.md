@@ -4,7 +4,7 @@ excerpt: "An inventory management asteroid miner"
 
 header:
   overlay_image: 
-  teaser: 
+  teaser: https://img.itch.zone/aW1nLzIxMTUwODg2LnBuZw==/347x500/W6nhb5.png
   overlay_filter: 0.5
 
 project_brief: "Project designed for the Game Systems class, requiring inventory and crafting systems"

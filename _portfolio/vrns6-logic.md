@@ -4,7 +4,7 @@ excerpt: "Underlying logic for a VR game"
 
 header:
   overlay_image: 
-  teaser: 
+  teaser: /assets/images/vrns.png
   overlay_filter: 0.5
 
 project_brief: "Code using software engineering principles to track level progress"
@@ -12,7 +12,8 @@ project_role: "Co-Programmer"
 project_tools: "Unity, VSCode"
 project_date: "October 31, 2025"
 ---
-## Player Experience Goal\
+
+## Player Experience Goal
 
 The mechanic should only display success to the player when all parts of the level have been fully completed, as the level is meant to function like a test that occurs in real life.
 

@@ -4,7 +4,7 @@ excerpt: "Swappable music variants for a senior project game level"
 
 header:
   overlay_image: 
-  teaser: 
+  teaser: https://img.itch.zone/aW1nLzIzOTM1NTYzLnBuZw==/315x250%23c/wcYVkG.png
   overlay_filter: 0.5
 
 project_brief: "More developed music incorporated into the senior production"

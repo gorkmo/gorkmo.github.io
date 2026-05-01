@@ -4,7 +4,7 @@ excerpt: "Quick songs for a game jam platform fighter"
 
 header:
   overlay_image: 
-  teaser: 
+  teaser: https://img.itch.zone/aW1nLzI1MzI0NDMwLnBuZw==/315x250%23c/w15auh.png
   overlay_filter: 0.5
 
 project_brief: "Game jam soundtrack developed in under 48 hours requiring two songs"
