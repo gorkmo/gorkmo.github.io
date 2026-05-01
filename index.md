@@ -24,6 +24,13 @@ feature_row:
     url: "/portfolio/vrns/"
     btn_label: "View"
     btn_class: "btn--primary"
+  - image_path: https://img.itch.zone/aW1nLzE4NDYyNDExLnBuZw==/315x250%23c/elNhPv.png
+    alt: "The Colorful Contraption"
+    title: "The Colorful Contraption"
+    excerpt: "Simple marble machine game for Game Programming class"
+    url: "/portfolio/contraption/"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
 
 # Welcome!

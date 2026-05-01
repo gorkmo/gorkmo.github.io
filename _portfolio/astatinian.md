@@ -12,6 +12,7 @@ project_role: "Sound Designer, Co-Programmer (Resource Spawning)"
 project_tools: "Unity, VSCode"
 project_date: "May 11, 2025"
 ---
+
 ## Documentation
 
 [Github Wiki](https://github.com/CSG-3523/25fa-gdc01-the-team/wiki)
@@ -19,6 +20,11 @@ project_date: "May 11, 2025"
 ## Case Study
 
 Resource spawning: Resources each had one texture and were spawning everywhere. I adjusted the frequency to make spawning roughly uniform and not suffocate the player too much and adjusted the rotation of every asteroid so the full texture can be appreciated and the world can have variety.
+
+## Videos
+
+-[Trailer](https://youtu.be/J-6-Sod9d5o)
+-[Narrated Gameplay](https://youtu.be/bbIx_xZg1TU)
 
 ## External Assets & Libraries
 

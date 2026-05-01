@@ -12,9 +12,15 @@ project_role: "Designer and Programmer"
 project_tools: "Unity, VSCode"
 project_date: "December 5, 2024"
 ---
-## Heading 
 
-Case Study: Reloads originally spawned only the next reload, meaning if the player picked up the active reload there would be no more spawning in. This was changed to be a hard mode for the game, with easier difficulties giving each reload a chance to spawn extras and automatically spawning in more if the player does not collect any for a certain period of time.
+## Case Study
+
+Resources: Reloads originally spawned only the next reload, meaning if the player picked up the active reload there would be no more spawning in. This was changed to be a hard mode for the game, with easier difficulties giving each reload a chance to spawn extras and automatically spawning in more if the player does not collect any for a certain period of time.
+
+## Videos
+
+-[Trailer](https://youtu.be/2J6Gx5ZniOk)
+-[Narrated Gameplay](https://youtu.be/9jzPVocyePA)
 
 ## External Assets & Libraries
 - [Medieval Arena Mini - Cute Series URP](https://assetstore.unity.com/packages/3d/environments/medieval-arena-mini-cute-series-urp-289115)

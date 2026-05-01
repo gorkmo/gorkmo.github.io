@@ -17,6 +17,11 @@ project_date: "November 5, 2024"
 
 Randomizer levels: Making a random level that was always beatable took a few iterations of the random level layout program. Eventually I settled on a base layout of a sloping ramp with a single red spring at the bottom to which other assets are added randomly. Few noticed this pattern until it was pointed out.
 
+## Videos
+
+-[Trailer](https://youtu.be/MXE1f5_HJt8)
+-[Narrated Gameplay](https://youtu.be/qBVkW3AGK1k)
+
 ### Resources
 
 - [Game](https://gorkmo.itch.io/the-colorful-contraption)
