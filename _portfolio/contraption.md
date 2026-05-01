@@ -19,8 +19,15 @@ Randomizer levels: Making a random level that was always beatable took a few ite
 
 ## Videos
 
--[Trailer](https://youtu.be/MXE1f5_HJt8)
--[Narrated Gameplay](https://youtu.be/qBVkW3AGK1k)
+- [Trailer](https://youtu.be/MXE1f5_HJt8)
+
+- [Narrated Gameplay](https://youtu.be/qBVkW3AGK1k)
+
+## Gallery
+
+![Introduction](/assets/images/ColCon1.png)
+![Hard level](/assets/images/ColCon2.png)
+![Random level](/assets/images/ColCon3.png)
 
 ### Resources
 

@@ -23,8 +23,17 @@ Resource spawning: Resources each had one texture and were spawning everywhere. 
 
 ## Videos
 
--[Trailer](https://youtu.be/J-6-Sod9d5o)
--[Narrated Gameplay](https://youtu.be/bbIx_xZg1TU)
+- [Trailer](https://youtu.be/J-6-Sod9d5o)
+
+- [Narrated Gameplay](https://youtu.be/bbIx_xZg1TU)
+
+## Gallery
+
+![Title screen](/assets/images/Astatinian1.png)
+![Intro](/assets/images/Astatinian2.png)
+![Mining](/assets/images/Astatinian3.png)
+![Crafting](/assets/images/Astatinian4.png)
+![End goal](/assets/images/Astatinian5.png)
 
 ## External Assets & Libraries
 

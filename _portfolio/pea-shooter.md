@@ -19,8 +19,16 @@ Resources: Reloads originally spawned only the next reload, meaning if the playe
 
 ## Videos
 
--[Trailer](https://youtu.be/2J6Gx5ZniOk)
--[Narrated Gameplay](https://youtu.be/9jzPVocyePA)
+- [Trailer](https://youtu.be/2J6Gx5ZniOk)
+
+- [Narrated Gameplay](https://youtu.be/9jzPVocyePA)
+
+## Gallery
+
+![Title screen](/assets/images/PeaShooter1.png)
+![Gameplay](/assets/images/PeaShooter2.png)
+![Table manipulation](/assets/images/PeaShooter3.png)
+![Scoring](/assets/images/PeaShooter4.png)
 
 ## External Assets & Libraries
 - [Medieval Arena Mini - Cute Series URP](https://assetstore.unity.com/packages/3d/environments/medieval-arena-mini-cute-series-urp-289115)

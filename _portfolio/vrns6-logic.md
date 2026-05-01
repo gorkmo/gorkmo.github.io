@@ -39,7 +39,7 @@ MedtrayTracker.cs
 
 ## Code Snippet
 
-![The code of MedtrayTracker.cs](vrns6-logic-snippet.png)
+![The code of MedtrayTracker.cs](/assets/images/vrns6-logic-snippet.png)
 
 ## Tuning Variables
 
